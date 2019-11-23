@@ -7,7 +7,7 @@
     {"MID": "1","Password": "1"}
   ],
   
-  profile = [
+  "profile" = [
     {"MID" : "1429374",
     "Team" : "Coloumbus",
     "Name" : "Abcd Def",
