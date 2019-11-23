@@ -5,6 +5,30 @@
     {"MID": "1604377","Password": "Pran@2019"},
     {"MID": "1429374","Password": "sunay"},
     {"MID": "1","Password": "1"}
-]
+  ],
+  
+  profile = [
+    {"MID" : "1429374",
+    "Team" : "Coloumbus",
+    "Name" : "Abcd Def",
+    "About" : "Random text goes here.",
+    "DOB" : "24-10-2019",
+    "Address" : "Catacombs",
+    "Mail" : "abc@nuuday.dk",
+    "Phone" : "9876543210",
+    "Gender" : "Male",
+    "Experience" : "-300"},
+
+    {"MID" : "1604377",
+    "Team" : "Coloumbus",
+    "Name" : "Halu K",
+    "About" : "I like fish. I love fish. My favourite food is 'Luchi and mach er jhol'. I love my 'DHUR PAGLI'.",
+    "DOB" : "24-10-2019",
+    "Address" : "Catacombs",
+    "Mail" : "dhurpagli@machkhabo.com",
+    "Phone" : "9876543210",
+    "Gender" : "Male",
+    "Experience" : "1"}
+  ]
 }
 
